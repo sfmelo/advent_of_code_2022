@@ -1,4 +1,4 @@
-package main
+package calorie_counting
 
 import (
 	"testing"
